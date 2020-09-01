@@ -1,0 +1,17 @@
+body 	{
+		background-image:	url(https://antoniowally.files.wordpress.com/2008/09/caricatura_aw_01.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position-y: 62px;
+}
+nav {
+    color: #0099FF;
+}
+footer {
+    color: #0099FF;
+}
+h1 {
+    color: #0099FF;
+    font-style: italic;
+}
